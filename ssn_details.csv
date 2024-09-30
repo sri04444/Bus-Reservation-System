@@ -1,0 +1,6 @@
+name,digital_id,password,bus_route,seat,date
+Amrit,2210213, ak,Route 3,16,26-12-23
+Ashwin,2210246, ash,Route 6,No seat,23-12-2023
+arjun,32424, ar,Route 4A,13,Date
+abi,1234, asdf, Route 0, null,Date
+ashein,3.12223E+12, vans,Route 7,16, Date
